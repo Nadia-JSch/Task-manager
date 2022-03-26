@@ -1,0 +1,125 @@
+Number of registered users: 				30
+Number of total tasks tracked: 				16
+
+------------------ admin's Statistics ------------------
+Total assigned tasks: 						4
+Percentage of total tasks assigned: 		25%
+Percentage of completed assigned tasks: 	50%
+Percentage of incomplete assigned tasks: 	50%
+Percentage of overdue assigned tasks: 		25%
+
+------------------ nadia's Statistics ------------------
+Total assigned tasks: 						2
+Percentage of total tasks assigned: 		12%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		50%
+
+------------------ anne's Statistics ------------------
+0 assigned tasks
+
+------------------ rob's Statistics ------------------
+Total assigned tasks: 						1
+Percentage of total tasks assigned: 		6%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		0%
+
+------------------ bot's Statistics ------------------
+Total assigned tasks: 						1
+Percentage of total tasks assigned: 		6%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		0%
+
+------------------ toast's Statistics ------------------
+0 assigned tasks
+
+------------------ matt's Statistics ------------------
+0 assigned tasks
+
+------------------ tim's Statistics ------------------
+0 assigned tasks
+
+------------------ lolo's Statistics ------------------
+Total assigned tasks: 						6
+Percentage of total tasks assigned: 		38%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		17%
+
+------------------ Sam's Statistics ------------------
+0 assigned tasks
+
+------------------ boot's Statistics ------------------
+0 assigned tasks
+
+------------------ hoot's Statistics ------------------
+0 assigned tasks
+
+------------------ Tammy's Statistics ------------------
+0 assigned tasks
+
+------------------ amo's Statistics ------------------
+Total assigned tasks: 						1
+Percentage of total tasks assigned: 		6%
+Percentage of completed assigned tasks: 	100%
+Percentage of incomplete assigned tasks: 	0%
+Percentage of overdue assigned tasks: 		0%
+
+------------------ eep's Statistics ------------------
+Total assigned tasks: 						1
+Percentage of total tasks assigned: 		6%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		0%
+
+------------------ Ruud's Statistics ------------------
+0 assigned tasks
+
+------------------ name's Statistics ------------------
+0 assigned tasks
+
+------------------ tommy's Statistics ------------------
+0 assigned tasks
+
+------------------ asdf's Statistics ------------------
+0 assigned tasks
+
+------------------ dot's Statistics ------------------
+0 assigned tasks
+
+------------------ tom's Statistics ------------------
+0 assigned tasks
+
+------------------ bot's Statistics ------------------
+Total assigned tasks: 						1
+Percentage of total tasks assigned: 		6%
+Percentage of completed assigned tasks: 	0%
+Percentage of incomplete assigned tasks: 	100%
+Percentage of overdue assigned tasks: 		0%
+
+------------------ june's Statistics ------------------
+0 assigned tasks
+
+------------------ coco's Statistics ------------------
+0 assigned tasks
+
+------------------ vivi's Statistics ------------------
+0 assigned tasks
+
+------------------ lili's Statistics ------------------
+0 assigned tasks
+
+------------------ lim's Statistics ------------------
+0 assigned tasks
+
+------------------ rae's Statistics ------------------
+0 assigned tasks
+
+------------------ orange's Statistics ------------------
+0 assigned tasks
+
+------------------ base's Statistics ------------------
+0 assigned tasks
+

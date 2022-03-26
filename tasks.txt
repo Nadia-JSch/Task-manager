@@ -1,0 +1,17 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes, 1
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No, 2
+nadia, Submit task_manager.py, Complete and submit the program and text files for review, 28 Jan 2022, 29 Jan 2022, No, 3
+nadia, Study Python, Practice coding everyday by reading and doing, 28 Jan 2022, 10 Apr 2022, No, 4
+admin, Clean the house, It's time to dust vacuum and mop, 28 Jan 2022, 18 Feb 3000, No, 5
+lolo, Feed the fish, Give the food to the fish in their bowl, 28 Jan 2022, 30 Jan 2022, No, 6
+admin, Add functions, add functions to improve the task manager, 3 Feb 2022, 5 Feb 2022, Yes, 7
+bot, study, learn how to pass the Turing test, 9 Feb 2022, 25 May 2022, No, 8
+lolo, clean the windows, wash the windows on both floors, 10 Feb 2022, 15 Feb 2022, No, 9
+amo, buy bread, run to the shop and buy bread , 10 Feb 2022, 12 Feb 2022, Yes, 10
+eep, write reports, write the yearly reports about the business, 11 Feb 2022, 25 Feb 2022, No, 11
+lolo, train, practice for the 5k race, 11 Feb 2022, 1 Jun 2022, No, 12
+lolo, train for 5k, practice running longer dictances to prepare for the race, 11 Feb 2022, 1 Jun 2022, No, 13
+rob, buy groceries, buy the things needed to cook dinner, 13 Feb 2022, 16 Feb 2022, No, 14
+lolo, research, use Google to find answers, 13 Feb 2022, 20 Feb 2022, No, 15
+lolo, drive, drive to another city to see some people, 13 Feb 2022, 17 Oct 2022, No, 16
+admin, talk to mentor, tell him that you have done the corrections he suggested, 13 Feb 2022, 13 Feb 2022, No, 17

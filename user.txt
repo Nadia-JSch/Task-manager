@@ -1,0 +1,16 @@
+admin, adm1n
+nadia, nad1a
+anne, ann3
+rob, r0b
+bot, b0t
+toast, t0ast 
+matt, m@tt 
+tim, t1m 
+lolo, l0l0 
+Sam, S@m 
+boot, b00t 
+hoot, h00t 
+Tammy, T@mmy 
+amo, am0 
+eep, 33p 
+Ruud, Ruud1

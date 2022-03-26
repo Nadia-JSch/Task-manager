@@ -1,0 +1,6 @@
+Number of total tasks tracked: 		16
+Number of completed tasks: 			3
+Number of incomplete tasks: 		13
+Number of overdue tasks: 			3
+Percentage of incomplete tasks: 	81%
+Percentage of overdue tasks: 		19%
