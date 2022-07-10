@@ -41,6 +41,7 @@ Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Co
 
 ## License
 
-This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/K-Means-clustering-from-scratch/blob/master/LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/Task-manager/blob/master/LICENSE).
+
 > Thank you for using the task manager :)
 
