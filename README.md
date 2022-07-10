@@ -4,10 +4,10 @@ A task manager to track tasks, add users, view overdue tasks, and other statisti
 
 ## Description
 
-The task manager allows users to record and edit tasks. The admin user is able to add new users and view additional stats. 
-Information about users and tasks are written and read from text files. 
+The task manager allows users to record and edit tasks. The admin user is able to add new users and view additional stats.
+Information about users and tasks is written and read from text files.
 
-Functionality for the admin user includes: 
+Functionality for the admin user includes:
   * Registering a user
   * Adding a task
   * View all tasks
@@ -15,7 +15,7 @@ Functionality for the admin user includes:
   * Generating reports
   * View statistics
 
-The aim of this project is to make use of text I/O, loops, lists, dictionaries, logical flow and procedural programming in a meaningful way. 
+The aim of this project is to make use of text I/O, loops, lists, dictionaries, logical flow and procedural programming in a meaningful way.
 
 ### Dependencies
 
@@ -24,10 +24,10 @@ The aim of this project is to make use of text I/O, loops, lists, dictionaries, 
 
 ### Running the program
 
-* Run the task_managerII.py file in any Python IDE. 
+* Run the task_managerII.py file in any Python IDE.
 
 ### Preview
-Start menu for admin user.
+Start menu for the admin user.
 
 ![task_manager_menu SGrab](https://user-images.githubusercontent.com/98525884/160281713-886593d3-1435-4435-944f-ab4b3e6f6f11.png)
 
@@ -35,4 +35,12 @@ Admin user's view of task statistics for registered users.
 
 ![task_manager SGrab](https://user-images.githubusercontent.com/98525884/160281624-509e3a85-ab43-4ba1-863e-e1885310b6a2.png)
 
-> Thank you for using the task manager :) 
+## Authors
+
+Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+
+## License
+
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Nadia-JSch/K-Means-clustering-from-scratch/blob/master/LICENSE).
+> Thank you for using the task manager :)
+
