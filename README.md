@@ -35,9 +35,9 @@ Admin user's view of task statistics for registered users.
 
 ![task_manager SGrab](https://user-images.githubusercontent.com/98525884/160281624-509e3a85-ab43-4ba1-863e-e1885310b6a2.png)
 
-## Authors
+## Author
 
-Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
+Nadia Schmidtke [contact](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 ## License
 
